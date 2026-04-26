@@ -1,0 +1,5 @@
+{
+  "name": "mathedit",
+  "version": "1.0.0",
+  "main": "mathedit/plugin.js"
+}
